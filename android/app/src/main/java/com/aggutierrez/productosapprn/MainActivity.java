@@ -1,4 +1,4 @@
-package com.productosapp;
+package com.aggutierrez.productosapprn;
 
 import android.os.Bundle;
 
